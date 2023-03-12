@@ -1,0 +1,15 @@
+C:\Users\meesh\source\repos\ListT\ListT\bin\Debug\net6.0\ListT.exe
+C:\Users\meesh\source\repos\ListT\ListT\bin\Debug\net6.0\ListT.deps.json
+C:\Users\meesh\source\repos\ListT\ListT\bin\Debug\net6.0\ListT.runtimeconfig.json
+C:\Users\meesh\source\repos\ListT\ListT\bin\Debug\net6.0\ListT.dll
+C:\Users\meesh\source\repos\ListT\ListT\bin\Debug\net6.0\ListT.pdb
+C:\Users\meesh\source\repos\ListT\ListT\obj\Debug\net6.0\ListT.csproj.AssemblyReference.cache
+C:\Users\meesh\source\repos\ListT\ListT\obj\Debug\net6.0\ListT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meesh\source\repos\ListT\ListT\obj\Debug\net6.0\ListT.AssemblyInfoInputs.cache
+C:\Users\meesh\source\repos\ListT\ListT\obj\Debug\net6.0\ListT.AssemblyInfo.cs
+C:\Users\meesh\source\repos\ListT\ListT\obj\Debug\net6.0\ListT.csproj.CoreCompileInputs.cache
+C:\Users\meesh\source\repos\ListT\ListT\obj\Debug\net6.0\ListT.dll
+C:\Users\meesh\source\repos\ListT\ListT\obj\Debug\net6.0\refint\ListT.dll
+C:\Users\meesh\source\repos\ListT\ListT\obj\Debug\net6.0\ListT.pdb
+C:\Users\meesh\source\repos\ListT\ListT\obj\Debug\net6.0\ListT.genruntimeconfig.cache
+C:\Users\meesh\source\repos\ListT\ListT\obj\Debug\net6.0\ref\ListT.dll
